@@ -18,3 +18,6 @@ quotient.Maths();
 
 Basic_Core.Swap Swaping = new Basic_Core.Swap();
 Swaping.Swapping();
+
+Basic_Core.Even_Odd even = new Basic_Core.Even_Odd();
+even.Manipulate();
