@@ -9,3 +9,6 @@ Square.Power();
 
 Basic_Core.Harmonic har = new Basic_Core.Harmonic();
 har.Harmonic_number();
+
+Basic_Core.Factors Prime_Factors = new Basic_Core.Factors();
+Prime_Factors.prime();
