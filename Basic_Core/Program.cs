@@ -12,3 +12,6 @@ har.Harmonic_number();
 
 Basic_Core.Factors Prime_Factors = new Basic_Core.Factors();
 Prime_Factors.prime();
+
+Basic_Core.Quotient_Remainder quotient = new Basic_Core.Quotient_Remainder();
+quotient.Maths();
