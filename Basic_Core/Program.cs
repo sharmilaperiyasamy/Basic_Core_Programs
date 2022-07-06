@@ -21,3 +21,6 @@ Swaping.Swapping();
 
 Basic_Core.Even_Odd even = new Basic_Core.Even_Odd();
 even.Manipulate();
+
+Basic_Core.Alphabet Alpha = new Basic_Core.Alphabet();
+Alpha.Letter();
