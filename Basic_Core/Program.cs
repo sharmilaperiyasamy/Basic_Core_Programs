@@ -15,3 +15,6 @@ Prime_Factors.prime();
 
 Basic_Core.Quotient_Remainder quotient = new Basic_Core.Quotient_Remainder();
 quotient.Maths();
+
+Basic_Core.Swap Swaping = new Basic_Core.Swap();
+Swaping.Swapping();
